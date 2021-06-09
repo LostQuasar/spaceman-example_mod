@@ -1,0 +1,10 @@
+{
+  "name": "example_mod",
+  "author": "spaceman",
+  "version": "1.0.0",
+  "license": "GPLv3",
+  "main": "main.js",
+  "dependencies": {
+    "spaceman-api": "1.0.0"
+  }
+}

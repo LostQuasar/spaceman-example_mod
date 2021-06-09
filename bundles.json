@@ -1,0 +1,11 @@
+{
+    "manifest": [
+        {
+            "key": "EXAMPLE_ITEM.bundle",
+            "dependencyKeys": [
+                "cubemaps",
+                "shaders"
+            ]
+        }
+    ]
+}
